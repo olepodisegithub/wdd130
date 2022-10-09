@@ -1,0 +1,121 @@
+#content
+{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+nav a
+{
+    text-align: center;
+    color:blue;
+    text-decoration: none;
+}
+
+#hero-msg h1, #hero-msg h4
+{
+    text-align: center;
+    color:dodgerblue;
+}
+
+.button-box
+{
+    text-align: center;
+    color:indigo;
+}
+
+main section
+{
+    text-align: center;
+    color:indigo;
+}
+
+#background
+{
+    height: 725px;
+    background-color:darkturquoise;
+}
+
+body
+{
+    background-color: #4AFFF5;
+    color:dodgerblue;
+}
+
+header
+{
+    background-color:aliceblue;
+}
+
+nav a:hover
+{
+    background-color: #4AFFF5;
+    color:black;
+}
+
+.book, .join
+{
+    background-color: #4AFFF5;
+    color:dodgerblue;
+}
+
+.book:hover, .join:hover
+{
+    background-color: #FFD9FF;
+    color:black;
+}
+
+.msg
+{
+    background-color: #4AFFF5;
+}
+
+footer
+{
+    background-color: aliceblue;
+    color:crimson;
+}
+
+.msg h2
+{
+    color:darkblue;
+}
+
+.msg p
+{
+    color:cadetblue;
+}
+
+.home-title
+{
+    color:chocolate;
+}
+
+h4
+{
+    color:blueviolet;
+}
+
+
+footer a
+{
+    color:chocolate;
+}
+
+footer a:hover
+{
+    color:red;
+}
+
+.logo
+{
+    width: 80px;
+}
+
+.card-img
+{
+    width: 80px;  
+}
+
+footer p a:hover {
+    text-decoration: underline;
+}   
