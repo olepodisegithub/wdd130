@@ -1,0 +1,31 @@
+#main-image
+{
+    width: 100%;
+    margin: 0px;
+    display: block;
+}
+
+.foot
+{
+    width: 50%;
+    margin-left: 7%;
+    margin-right: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-radius: 50%;
+    border: 1.5px solid rgb(70, 68, 68);
+}
+
+div
+{
+    background-color:gray;
+    align-items: center;
+}
+
+table
+{
+    align-items: center;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+

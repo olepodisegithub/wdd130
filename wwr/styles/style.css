@@ -1,3 +1,5 @@
+@import url('https://fonts.google.com/specimen/Open+Sans?category=Serif,Sans+Serif&vfonly=true&preview.size=12');
+
 #content
 {
     max-width: 1600px;
@@ -9,6 +11,7 @@ nav a
     text-align: center;
     color:blue;
     text-decoration: none;
+    padding: 35px;
 }
 
 #hero-msg h1, #hero-msg h4
@@ -33,12 +36,17 @@ main section
 {
     height: 725px;
     background-color:darkturquoise;
+    padding: 35px;
 }
 
 body
 {
     background-color: #4AFFF5;
     color:dodgerblue;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
 }
 
 header
@@ -56,6 +64,10 @@ nav a:hover
 {
     background-color: #4AFFF5;
     color:dodgerblue;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
 }
 
 .book:hover, .join:hover
@@ -66,28 +78,39 @@ nav a:hover
 
 .msg
 {
-    background-color: #4AFFF5;
+    background-color:azure;
+    line-height: 1.5em;
+    padding: 35px;
+    margin-top: 200px;
 }
 
 footer
 {
     background-color: aliceblue;
     color:crimson;
+    padding: 25px 50px;
+    margin-top: 200px;
 }
 
 .msg h2
 {
     color:darkblue;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .msg p
 {
     color:cadetblue;
+    font-size: 1.5em;
+    padding-bottom: 15px;
 }
 
 .home-title
 {
     color:chocolate;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+    margin-top: 10px;
 }
 
 h4
@@ -113,9 +136,65 @@ footer a:hover
 
 .card-img
 {
-    width: 80px;  
+    width: 250px;  
+    border: 10px solid #FCC386
 }
 
-footer p a:hover {
-    text-decoration: underline;
+footer p a 
+{
+    text-decoration: none;
 }   
+
+.icon
+{
+    width: 80px;
+    padding-top: 10px;
+}
+
+h2
+{
+    margin: 0;
+}
+
+#logo_link   
+{
+    padding-top: 5px;
+}
+
+footer .social img   
+{
+    padding-top: 15px;
+}
+
+.rivers-card, .camping-card, .rapids-card
+{
+    margin: 200px 0;
+
+}
+
+main section img
+{
+    box-sizing: border-box;
+}
+
+.mountains
+{
+    margin-top: 200px;
+}
+
+#hero-img
+{
+   padding-right: 0;
+   width: 100%;
+}
+
+#hero
+{
+    background-color:azure ;
+}
+
+.button-box
+{
+    padding-bottom: 100px;
+}
+
