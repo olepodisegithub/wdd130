@@ -207,7 +207,7 @@ nav
 .home-grid
 {
     display: grid;
-    grid-template-columns: repeat(10,1fx);
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto ;
 }   
 
 .card-img, .mountains 
