@@ -314,6 +314,8 @@ Rivers css start
     text-align:justify; 
     padding: 10px;
     margin: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(2, 14, 26);
 }
 
 .river_names
