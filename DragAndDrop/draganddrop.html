@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Drag and Drop</title>
+    <link type="text/css" rel="stylesheet" href="draganddrop.css">
+  </head>
+  <body>
+    <script src="draganddrop.js"></script>
+    <p>This is a drag and drop HTML example</p>
+    <div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+    <div id="div2" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+    <img src="https://images.unsplash.com/photo-1600794730175-61947545f5da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80" id="drag1" draggable="true" width="360" height="180" ondragstart="drag(event)">
+    
+  </body>
+</html>

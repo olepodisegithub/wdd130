@@ -1,0 +1,18 @@
+* {
+  background: skyblue;
+}
+#div1 {
+  width: 370px;
+  height: 190px;
+  padding: 10px;
+  border: 4px solid #fff;
+  float: right;
+}
+#div2 {
+  width: 370px;
+  height: 190px;
+  padding: 10px;
+  border: 4px solid red;
+  float: left;
+  display: none;
+}
