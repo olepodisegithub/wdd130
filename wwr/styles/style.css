@@ -286,6 +286,51 @@ nav
 }
 */
 
+/*
+Rivers css start 
+*/
+
+.rivers-grid
+{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    box-sizing: border-box;
+}  
+
+.rivers_title
+{
+    text-align: center;
+}
+
+.rivers-1-img,.rivers-2-img,.rivers-3-img
+{
+    width: 100%;
+    height: 100%;
+    padding: 5px;
+}
+
+.river_descriptions
+{
+    text-align:justify; 
+    padding: 10px;
+    margin: 5px;
+}
+
+.river_names
+{
+    text-align: center;
+}
+
+.rivers-1,.rivers-3
+{
+    background-color: azure;
+}
+
+
+/*
+Rivers css end 
+*/
+
 
 
 @media screen and (max-width: 900px) {
