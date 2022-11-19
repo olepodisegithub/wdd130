@@ -1,3 +1,10 @@
+@import url('https://fonts.google.com/specimen/Ubuntu?query=ubuntu');
+
+
+body
+{
+    font-family:ubuntu, Helvetica, sans-serif;
+}
 nav 
 {
     display: flex;
