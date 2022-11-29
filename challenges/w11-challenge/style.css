@@ -1,0 +1,45 @@
+section 
+{
+    width: 50%;
+    border: 1px solid;
+}
+  
+.block2,.block4
+{
+    margin: 0 auto;
+}
+
+.block3
+{
+    margin-left: auto;
+}
+
+.p1
+{
+    text-align: left;
+}
+
+.p2
+{
+    text-align: center;
+}
+  
+.p3
+{
+    text-align: right;
+}
+
+#b4p1
+{
+    text-align: right;
+}
+
+#b4p2
+{
+    text-align: center;
+}
+
+#b4p3,#b4p4
+{
+    text-align: left;
+}
