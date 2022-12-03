@@ -1,9 +1,9 @@
-@import url('https://fonts.google.com/specimen/Ubuntu?query=ubuntu');
+@import url('https://fonts.google.com/specimen/Ubuntu?Family=Ubuntu');
 
 
 body
 {
-    font-family:ubuntu, Helvetica, sans-serif;
+    font-family:Arial, Helvetica, sans-serif
 }
 nav 
 {
@@ -15,21 +15,21 @@ nav
 nav a
 {
     text-align: center;
-    color:blue;
+    color:#5850EE;
     text-decoration: none;
     padding: 35px;
 }
 
 header
 {
-    background-color:rgb(0, 225, 255);
+    background-color:#2BEC2B;
     display: grid;
     grid-template-columns: 150px auto;
 }
 
 nav a:hover
 {
-    background-color: #5f2af1;
+    background-color: #5850EE;
     color:white;
 }
 
@@ -48,7 +48,7 @@ nav a:hover
 .purpose
 {
     text-align: center;
-    color: blue;
+    color: #5850EE;
     font-size: 1em;
 }
 
@@ -91,7 +91,7 @@ nav a:hover
 .home_details
 {
     justify-content: left;
-    color: blue;
+    color: #5850EE;
     size: 1em;
     box-sizing: border-box;
     word-wrap:normal;
@@ -112,7 +112,7 @@ nav a:hover
 
 footer
 {
-    background-color: rgb(0, 225, 255);
+    background-color: #2BEC2B;
     font-size: 1em;
 }
 
@@ -129,7 +129,7 @@ footer
 
 .media_links:hover
 {
-   color: fuchsia; 
+   color: #EB7ED0; 
 }
 
 .images_grid
@@ -151,7 +151,7 @@ footer
 .parents_and_siblings_details,.my_family_details,.service_details
 {
     justify-content: left;
-    color: blue;
+    color: #5850EE;
     size: 1em;
     box-sizing: border-box;
 }
@@ -225,5 +225,5 @@ footer
 
 .home_text,.work_text
 {
-    color: blue;
+    color: #5850EE;
 }
