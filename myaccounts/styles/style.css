@@ -3,11 +3,8 @@
 {
     font-family: Ubuntu;
     src: url(https://fonts.google.com/specimen/Ubuntu?Family=Ubuntu);
-
     font-family: OpenSans;
-    scr: url(https://fonts.google.com/specimen/Open+Sans?query=+Open+Sans);
-  }
-
+}
 
 #content
 {
@@ -96,7 +93,6 @@ nav a:hover
 .text_heading
 {
     text-align: center;
-    size: 1em;
     color: #EB7ED0;
 }
 
@@ -115,7 +111,6 @@ nav a:hover
 {
     justify-content: left;
     color: #5850EE;
-    size: 1em;
     box-sizing: border-box;
     word-wrap:normal;
 }
@@ -130,7 +125,6 @@ nav a:hover
 {
     text-align: center;
     padding: 5px;
-    size: 2em;
 }
 
 footer
@@ -175,7 +169,6 @@ footer
 {
     justify-content: left;
     color: #5850EE;
-    size: 1em;
     box-sizing: border-box;
 }
 
