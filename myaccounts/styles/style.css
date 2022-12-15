@@ -8,10 +8,11 @@
     scr: url(https://fonts.google.com/specimen/Open+Sans?query=+Open+Sans);
   }
 
+
 #content
 {
-    max-width: 1600px;
-
+    max-width: 90%;
+    margin: auto;
 }
 
 body
@@ -36,7 +37,7 @@ nav a
 
 header
 {
-    background-color:#2BEC2B;
+    background-color:#E9A48B;
     display: grid;
     grid-template-columns: 150px auto;
     font-family:Ubuntu;
@@ -63,7 +64,7 @@ nav a:hover
 .purpose
 {
     text-align: center;
-    color: #5850EE;
+    color: #EB7ED0;
     font-size: 1em;
 }
 
@@ -95,6 +96,12 @@ nav a:hover
 {
     text-align: center;
     size: 1em;
+    color: #EB7ED0;
+}
+
+.parents_and_siblings_head,.my_family_head,.service_head,.at_work,.at_home
+{
+    color: #EB7ED0;
 }
 
 .first_picture,.second_picture,.who_text
